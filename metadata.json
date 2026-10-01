@@ -1,0 +1,6 @@
+{
+  "name": "FinControl",
+  "description": "Gestão financeira empresarial integrada com Controladoria (DRE, BP, DFC), Tesouraria e Fluxo de Caixa em tempo real, automação bancária e conciliação inteligente via Open Finance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
